@@ -3,9 +3,11 @@ package org.tnsif.classesandobject;
 // class decleration
 
 public class Sandwitch {
+	
+	//Default Data Members(Can access inside same package only )
 
 	String breadType;
-   private int noOfSlice;
+    int noOfSlice;
     
     //method declarartion
     public void display()
